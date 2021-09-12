@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on 李闯的个人网页</title>
+    <link>http://github.com/lichuangnus.github.io/pt-cn/tags/blog/</link>
+    <description>Recent content in blog on 李闯的个人网页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://github.com/lichuangnus.github.io/pt-cn/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First post</title>
+      <link>http://github.com/lichuangnus.github.io/pt-cn/posts/post1/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://github.com/lichuangnus.github.io/pt-cn/posts/post1/</guid>
+      <description>中文博客内容将在稍后更新，推荐是用谷歌翻译进行英译汉！</description>
+    </item>
+    
+  </channel>
+</rss>

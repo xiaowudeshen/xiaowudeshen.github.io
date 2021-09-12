@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>李闯的个人网页</title>
+    <link>http://github.com/lichuangnus.github.io/pt-cn/</link>
+    <description>Recent content on 李闯的个人网页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://github.com/lichuangnus.github.io/pt-cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://github.com/lichuangnus.github.io/pt-cn/about/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://github.com/lichuangnus.github.io/pt-cn/about/</guid>
+      <description>My name is Victor, Li Chuang. I’m currently a Year 2 PhD student of NUS Intergrative Science and Engineering Program (ISEP) under NUS Graduate School (NUSGS) starting from August 2020. I am jointly advised by Prof Kan Min-Yen from Web IR/NLP Group (WING) in School of Computing (SOC)and Prof Li Haizhou at Human Language Technology (HLT) Lab.
+My research interests are in Recommendation System, Conversational Recommendation System and Dialogue System.</description>
+    </item>
+    
+    <item>
+      <title>First post</title>
+      <link>http://github.com/lichuangnus.github.io/pt-cn/posts/post1/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://github.com/lichuangnus.github.io/pt-cn/posts/post1/</guid>
+      <description>中文博客内容将在稍后更新，推荐是用谷歌翻译进行英译汉！</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://github.com/lichuangnus.github.io/pt-cn/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://github.com/lichuangnus.github.io/pt-cn/contact/</guid>
+      <description>请通过邮箱联系我，电子邮箱地址lichuangnus「@」gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://github.com/lichuangnus.github.io/pt-cn/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://github.com/lichuangnus.github.io/pt-cn/projects/</guid>
+      <description>项目内容稍后更新！</description>
+    </item>
+    
+  </channel>
+</rss>
